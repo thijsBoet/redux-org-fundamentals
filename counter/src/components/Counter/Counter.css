@@ -1,0 +1,14 @@
+.counter {
+	margin: 0 1rem;
+}
+
+.resetBtn {
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  background-color: #f9f9f9;
+  color: #1a1a1a;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
